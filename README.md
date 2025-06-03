@@ -1,5 +1,7 @@
 # Stock Analysis Dashboard
 
+> This is the task-1 implementation of the stock analysis project.
+
 This project provides a Python-based stock analysis tool that visualizes stock data using various technical indicators.
 
 ## Features
