@@ -3,3 +3,6 @@ pandas
 matplotlib
 pytest
 ta
+textblob
+nltk
+scipy
